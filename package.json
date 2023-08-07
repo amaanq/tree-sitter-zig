@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "nan": "^2.17.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.46.0",
+    "eslint-config-google": "^0.14.0",
+    "tree-sitter-cli": "^0.20.8"
+  },
+  "main": "bindings/node"
+}
